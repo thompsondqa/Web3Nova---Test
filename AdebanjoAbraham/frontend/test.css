@@ -15,12 +15,15 @@ p{
         }
 
 
-      hi{
+      h1{
         font-style: italic;
         flex-direction: row-reverse;
-            font-family: "Lobster", sans-serif;
+            font-family: "Rubik Iso", system-ui;
             font-weight: 400;
             font-style: normal;
+            color: red;
+            text-align: center;
+            font-size: 50px;
 }
 
 a{
@@ -31,10 +34,11 @@ a{
 }
 
 h2
-.lobster-regular {
+{
     font-family: "Lobster", sans-serif;
     font-weight: 400;
     font-style: normal;
+    color: blue;
   }
   
 
